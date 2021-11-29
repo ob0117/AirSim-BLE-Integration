@@ -58,3 +58,15 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
+*.log
+*.log
+UnityProject/Library/ArtifactDB
+UnityProject/Library/SceneVisibilityState.asset
+UnityProject/Library/ShaderCache/EditorEncounteredVariants
+UnityProject/Library/StateCache/MainStageHierarchy/d3/d3815d34316d30c98587dfb369447d48.json
+UnityProject/Library/SourceAssetDB
+UnityProject/Logs/WrapperDllLog_28112021_197.txt
+*.bakert
+UnityProject/Temp/workerlic
+*.backup
+UnityProject/Library/EditorInstance.json
