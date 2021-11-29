@@ -14,4 +14,10 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/DroneDemo.unity
     guid: 012f6bdfaada17042bf7917f7d4fcbd8
-  m_configObjects: {}
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 3dedbf916267ef047902f7e42269dbe5,
+      type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 69d696da2b6d3b648900b0cf9cf0237c,
+      type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 4615501d64b45f148987a1c8c034b235,
+      type: 2}
