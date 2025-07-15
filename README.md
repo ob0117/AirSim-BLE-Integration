@@ -1,6 +1,6 @@
 # AirSim-BLE-Integration
 
-This project serves as a starter template for research students working with the **BL Engine** to connect EEG signals (via the Muse headset) to a Unity-based simulation using **Microsoft AirSim**.
+This project serves as a starter template for research students working with the BL Engine to connect EEG signals (via the Muse headset) to a Unity-based simulation using **Microsoft AirSim**.
 
 It was originally put together as part of an undergraduate research assistantship at the [University of Waterloo Human Optimization Modelling Lab](https://uwaterloo.ca/human-optimization-modelling-lab/).
 
